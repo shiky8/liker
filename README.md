@@ -1,7 +1,7 @@
 # liker
 that script will like a youtube video by many emails using email list 
 
-like boot to youtube video by a word list of emails addrees and passwored
+like boot to youtube video by a word list of emails addrees 
 
 i made that project in python3
 
